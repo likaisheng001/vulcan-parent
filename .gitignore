@@ -4,3 +4,6 @@
 */.classpath
 */.gitignore
 */.settings/*
+
+.idea/
+*.iml
